@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "865541253230",
+    "firebase_url": "https://expenserevenue-13c58.firebaseio.com",
+    "project_id": "expenserevenue-13c58",
+    "storage_bucket": "expenserevenue-13c58.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865541253230:android:1c772bbffb71ba02d31e7f",
+        "android_client_info": {
+          "package_name": "com.thiagoss.expenserevenue"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "865541253230-oibb2dpfi7e4upfreo4v49fkif9l76a5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYrTjkXdeg4ObMfttbjjs9Yp3Y7__YNQ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "865541253230-oibb2dpfi7e4upfreo4v49fkif9l76a5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
